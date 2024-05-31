@@ -3,7 +3,7 @@
 !.gitignore
 !.gitattributes
 !.github/
-
+!.mvn/wrapper/
 # Ignore generated files
 target
 bin
